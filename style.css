@@ -67,12 +67,12 @@ button{
 @media (max-width:480px) {
     .form{
         width:70vw;
-       
+       height: 35vh;
         background-color: red;
     }
     form{
         width:60vw;
-        height: 70vh;
+        height: 35vh;
         box-shadow: 2px 0px 7px;
     }
 }
